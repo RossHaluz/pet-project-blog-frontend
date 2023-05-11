@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet-project-blog-frontend/static/css/main.7acaea2f.css",
+    "main.js": "/pet-project-blog-frontend/static/js/main.352ad9ee.js",
+    "index.html": "/pet-project-blog-frontend/index.html",
+    "main.7acaea2f.css.map": "/pet-project-blog-frontend/static/css/main.7acaea2f.css.map",
+    "main.352ad9ee.js.map": "/pet-project-blog-frontend/static/js/main.352ad9ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.352ad9ee.js"
+  ]
+}
